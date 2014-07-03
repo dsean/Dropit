@@ -88,8 +88,7 @@ static const CGSize DROPIT_SIZE = {40, 40};
     }
     return [UIColor blackColor];
 }
-- (void)viewDidLoad
-{
+- (void)viewDidLoad {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }
