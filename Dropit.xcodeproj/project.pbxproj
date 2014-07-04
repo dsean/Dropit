@@ -122,9 +122,9 @@
 				14992FDB1964FF30007C2A1A /* DropitViewController.h */,
 				14992FDC1964FF30007C2A1A /* DropitViewController.m */,
 				14992FFE19655515007C2A1A /* DropitBehavior.h */,
+				14992FFF19655515007C2A1A /* DropitBehavior.m */,
 				14CC5C781966519800C9F949 /* BezierPathView.h */,
 				14CC5C791966519800C9F949 /* BezierPathView.m */,
-				14992FFF19655515007C2A1A /* DropitBehavior.m */,
 				14992FDE1964FF30007C2A1A /* Images.xcassets */,
 				14992FCD1964FF30007C2A1A /* Supporting Files */,
 			);
